@@ -45,7 +45,7 @@ My interests include **data analytics, visualization, and business intelligence*
 - **Student Performance Analysis (Python + Pandas)**  
   Cleaned and analyzed student data to identify trends and toppers.
 
-- **Website Development – Enprosyst Solutions Pvt. Ltd. | 2023 **
+- **Website Development – Enprosyst Solutions Pvt. Ltd. (2023)**
   Designed and developed a full-stack website to enhance the company’s online presence and improve user experience.
   Built responsive front-end interfaces and implemented back-end logic with database integration to deliver a dynamic and engaging web application.
 
