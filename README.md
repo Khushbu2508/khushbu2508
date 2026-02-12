@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋 Hi, I'm Khushbu Pannase
+🎓 Engineering Graduate | MBA (Business Analytics)  
+📍 Pune,India  
 <!--
 **Khushbu2508/khushbu2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
