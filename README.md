@@ -51,13 +51,6 @@ My interests include **data analytics, visualization, and business intelligence*
 
 ---
 
-## 📜 Certifications
-- Web Developer Intern – Design For U  
-- Certified in Web Technologies & Data Analytics  
-- NASSCOM Certified – AIOps & Multicloud Engineering  
-
----
-
 ## 📫 Connect With Me
 🔗 LinkedIn: www.linkedin.com/in/khushbu-pannase 
 📧 Email: khushbupannase99@gmail.com
